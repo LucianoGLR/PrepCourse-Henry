@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es el repositorio del prepCourse
+Aca estoy probando mis primeros pasos del prepCourse :D
